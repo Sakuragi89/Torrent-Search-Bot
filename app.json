@@ -13,10 +13,10 @@
     "success_url": "https://github.com/infotechIT/Torrent-Search-Bot",
     "env": {
         "API_ID": {
-            "description": "Get this value from my.telegram.org"
+            "description": "Get this value from my.telegram.org or @MT_MyTelegramOrg_Bot"
         },
         "API_HASH": {
-            "description": "Get this value from my.telegram.org"
+            "description": "Get this value from my.telegram.org or @MT_MyTelegramOrg_Bot"
         },
         "SESSION_NAME": {
             "description": "Any Bot Session Name. You can keep default!",
