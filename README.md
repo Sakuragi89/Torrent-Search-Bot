@@ -1,4 +1,4 @@
-# Torrent-Search-Bot
+# Torrent-Search-RoBot
 
 A Simple Telegram Inline Torrent Search Bot by [@infotechIT](https://github.com/infotechIT).
 
