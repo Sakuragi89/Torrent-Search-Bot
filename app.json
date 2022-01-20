@@ -8,9 +8,9 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/infotechIT/Torrent-Search-RoBot",
+    "repository": "https://github.com/infotechIT/Torrent-Search-Bot",
     "website": "https://telegram.dog/infofotechIT",
-    "success_url": "https://github.com/infotechIT/Torrent-Search-RoBot",
+    "success_url": "https://github.com/infotechIT/Torrent-Search-Bot",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org"
