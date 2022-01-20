@@ -1,6 +1,6 @@
-
-"name": "Torrent Search Bot by @infofotechIT",
-    "description": "A Simple Telegram Inline Torrent Search Bot in Pyrogram by @infofotechIT",
+{
+    "name": "Torrent Search Bot by @AbirHasan2005",
+    "description": "A Simple Telegram Inline Torrent Search Bot in Pyrogram by @infotechIT",
     "keywords": [
         "telegram",
         "inline",
@@ -9,7 +9,7 @@
         "bot"
     ],
     "repository": "https://github.com/infotechIT/Torrent-Search-Bot",
-    "website": "https://telegram.dog/infofotechIT",
+    "website": "https://telegram.dog/infotechIT",
     "success_url": "https://github.com/infotechIT/Torrent-Search-Bot",
     "env": {
         "API_ID": {
@@ -20,7 +20,7 @@
         },
         "SESSION_NAME": {
             "description": "Any Bot Session Name. You can keep default!",
-            "value": "Torrent-Search-RoBot"
+            "value": "Torrent-Search-Bot"
         },
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token by @BotFather"
